@@ -1,0 +1,25 @@
+/* Head section */
+
+.sec1{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    margin: 7px;
+}
+
+.list1{
+    display: flex;
+    gap: 8px;
+    list-style: none;
+}
+
+.word{
+    display: flex;
+
+}
+
+
+img {
+    width: 89px;
+    height: auto;
+}
